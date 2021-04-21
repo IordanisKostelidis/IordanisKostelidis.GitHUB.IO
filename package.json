@@ -2,7 +2,7 @@
   "name": "iordaniskostelidis",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://iordaniskostelidis.github.io",
+  "homepage": "https://iordaniskostelidis.eu",
   "dependencies": {
     "@testing-library/dom": "^7.30.3",
     "@testing-library/jest-dom": "^5.11.4",
