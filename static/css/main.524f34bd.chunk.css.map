@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/custom.css"],"names":[],"mappings":"AAAA,4CACI,YACJ","file":"main.524f34bd.chunk.css","sourcesContent":["div > div > div > div >div > div > div > div > div > h5 + span {\n    display: none;\n}\n"]}
